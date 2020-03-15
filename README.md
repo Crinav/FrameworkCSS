@@ -18,7 +18,23 @@ Rewrite of the main features of the bootstrap framework with SASS
 * Modal  
   
 ## How to use
-* Use class  container,  container-fluid,  row,  col-*-*,  btn ,  btn-primary/secondary,  disable,  small,  large,   disable,  navbar,  img-responsive/rounded/thumbnail/circle,  alert-success/error/warning/info/danger,  hidden,  visible,  modal
+* Use class  
+container,  
+container-fluid,  
+row,  
+col-*-*,  
+btn ,  
+btn-primary/secondary,  
+disable,  
+small,  
+large,   
+disable,  
+navbar,  
+img-responsive/rounded/thumbnail/circle,  
+alert-success/error/warning/info/danger,  
+hidden,  
+visible,  
+modal
 
   
 ## Contact  
