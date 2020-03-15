@@ -45,5 +45,6 @@ Copyright (©) Christophe Navarro <navarro.christophe@gmail.com>
 
  ## Screenshots 
 ![alt text](https://github.com/Crinav/FrameworkCSS/blob/master/My_bootstrap.jpg "main page")  
+___
 
-  
+ ![alt text](https://github.com/Crinav/FrameworkCSS/blob/master/modal.png "main page")   
